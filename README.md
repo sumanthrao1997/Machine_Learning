@@ -1,2 +1,2 @@
 # Machine_learning assignments
-## Data_cleaning , logistic regression, Linear and non linear regression
+## Data_cleaning , Linear and non linear regression, Logistic regression
